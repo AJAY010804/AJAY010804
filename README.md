@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AJAY010804
-- 👀 I’m interested in WEB DEVELOPMENT
+- 👀 I’m interested in WEB DEVELOPMENT/SOFTWARE ENGINEER/DevOp ENGINEER/DATA SCIENCE
 - 🌱 I’m currently learning CODING
 - 💞️ I’m looking to collaborate on coding project
 - 📫 How to reach me EMAIL:- yemmewarajaydilip@gmail.com
