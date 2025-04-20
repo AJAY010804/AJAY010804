@@ -39,7 +39,9 @@
 ## 🏆 Certification
 
 ### ✅ Python Bootcamp (Udemy)
-📜 [View Certificate](https://www.udemy.com/certificate/UC-0c31dbe6-c732-4975-8618-c54988721b9c/)
+📜 [View Certificate](https://www.udemy.com/certificate/UC-0c31dbe6-c732-4975-8618-c54988721b9c/) 
+### ✅ Red Hat Certified System Administrator (RHCSA)
+📜 [Verify on Credly](https://www.credly.com/badges/0dfecccc-10cf-4e9e-bb0d-94e3c9afe685)
 
 ---
 
