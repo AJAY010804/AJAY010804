@@ -58,7 +58,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-AJAY010804-181717?style=flat&logo=github&logoColor=white)](https://github.com/AJAY010804)    --->
 - 📧 Email: [ajay.dilip.yemmewar@gmail.com](mailto:ajay.dilip.yemmewar@gmail.com)
 - 💼 LinkedIn: [Ajay Dilip Yemmewar](https://www.linkedin.com/in/ajay-dilip-yemmewar-b9b5372b3/)
-- 🐙 GitHub: [@AJAY010804](https://github.com/AJAY010804)
+- ✨ GitHub: [@AJAY010804](https://github.com/AJAY010804)
 
 ---
 
