@@ -46,10 +46,11 @@
 ---
 
 ## 📂 Featured Projects
-
+<!---
+- Loading Soon ....
 - 📊 [Data Science Learning Repository](https://github.com/AJAY010804/data-science-learning)
 - ⚙️ [DevOps Learning Journey](https://github.com/AJAY010804/devops-learning-journey)
-
+--->
 ---
 
 ## 📫 Let's Connect
