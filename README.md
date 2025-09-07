@@ -46,6 +46,7 @@
 ---
 
 ## 📂 Featured Projects
+- TheLearnLog Career Website (Flask, Python) - [Click Here](https://github.com/AJAY010804/TheLearnLog_Career-website)
 - Loading Soon ....
 <!---
 - 📊 [Data Science Learning Repository](https://github.com/AJAY010804/data-science-learning)
