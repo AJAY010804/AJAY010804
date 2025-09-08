@@ -47,6 +47,7 @@
 
 ## 📂 Featured Projects
 - TheLearnLog Career Website (Flask, Python) - [Click Here](https://github.com/AJAY010804/TheLearnLog_Career-website)
+- Hybrid Text-to-Speech (TTS) Engine - [Click Here](https://github.com/AJAY010804/hybrid-tts-engine)
 - Loading Soon ....
 <!---
 - 📊 [Data Science Learning Repository](https://github.com/AJAY010804/data-science-learning)
